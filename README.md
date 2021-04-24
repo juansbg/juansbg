@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @juansbg
+- 👀 I’m interested in Machine Learning and AI
+- 🌱 I’m currently learning Azure ML Studio
